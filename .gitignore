@@ -3,3 +3,10 @@ dist
 __my_files
 venv
 .mypy_cache
+.editorconfig
+.eslintrc.js
+.prettierrc.js
+package-lock.json
+package.json
+tsconfig.json
+.vscode
