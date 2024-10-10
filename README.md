@@ -1,5 +1,3 @@
-# Padrões de projeto com TypeScript
-
 Aula sobre padrões de Projeto com o professor Luiz Otávio disponível gratuitamente em:
 
 https://www.youtube.com/watch?v=MqddY6Ochkc&list=PLbIBj8vQhvm0VY5YrMrafWaQY2EnJ3j8H
